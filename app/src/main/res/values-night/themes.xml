@@ -1,0 +1,35 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TraxRFIDApp" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <item name="colorPrimary">@color/red</item>
+       <!-- Set text color to black -->
+
+    </style>
+    <style name="mytoolbatstyle">
+        <item name="titleTextColor">@color/white</item>
+        <item name="titleMarginStart">16dp</item>
+        <item name="android:textSize">45sp</item>
+        <item name="android:titleTextAppearance">@style/TextAppearance.Material3.TitleLarge</item>
+        <item name="android:background">@drawable/background</item>
+
+    </style>
+    <style name="myEditTextStyle">
+        <item name="android:layout_marginLeft">20dp</item>
+        <item name="android:layout_marginRight">20dp</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:paddingStart">8dp</item>
+        <item name="android:paddingEnd">5dp</item>
+        <item name="android:background">@drawable/edit_text_card_shape_otlined</item>
+        <item name="android:layout_marginTop">20dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:inputType">text</item>
+        <item name="android:textColor">@color/editTextColor</item>
+
+
+
+
+
+    </style>
+</resources>

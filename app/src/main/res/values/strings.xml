@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TraxRFIDApp</string>
+    <string name="scan_vin">Scan VIN</string>
+    <string name="_123_987_234_211">123.987-234.211</string>
+    <string name="location">Location</string>
+    <string name="enter_location">Enter Location</string>
+    <string name="submit">Submit</string>
+    <string name="_1_bison_holiday_dr_mccook">1 Bison Holiday Dr. McCook ,</string>
+    <string name="admin">Admin</string>
+    <string name="user_name">User Name</string>
+    <string name="home">Home</string>
+    <string name="scan_vin1">Scan VIN</string>
+    <string name="admin1">Admin</string>
+    <string name="_1_bison_holiday_dr_mccook1">1 Bison Holiday Dr. McCook ,NE 69001
+        </string>
+    <string name="vin">VIN</string>
+</resources>
